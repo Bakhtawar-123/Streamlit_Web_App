@@ -22,3 +22,4 @@ fig.update_layout(xaxis_title='Sales', yaxis_title='Advertising Medium')
 # Display the animated graph using Streamlit
 st.write('Animated Graph:')
 st.plotly_chart(fig)
+st.header("Enjoy exploring the predictions!")
